@@ -91,8 +91,8 @@ In `./wandb_config`, we provide the parameters setting of conventional zero-shot
 Run the given commands to train the "Zero-ViFERS" from scratch:
 
 ```
-$ python train_ucm.py   # UCM
-$ python train_aid.py   # AID
-$ python train_nwpu.py  # NWPU
-$ python train_rsd.py  # RSD
+$ python train_zero_vifers_ucm.py   # UCM
+$ python train_zero_vifers_aid.py   # AID
+$ python train_zero_vifers_nwpu.py  # NWPU
+$ python train_zero_vifers_rsd.py  # RSD
 ```
