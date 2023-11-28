@@ -109,7 +109,7 @@ final_classifier:
 k_nn:
   value: 5
 feature_component:
-  value: FR_h_a
+  value: FR_l_r
 pre_seed:
   value: 214
 pre_dim_v:
