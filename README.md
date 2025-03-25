@@ -1,13 +1,13 @@
 **Zero-ViFERS**
 
 
-This GitHub repository contains the training code for the paper  "**Zero-ViFERS: Visual Feature Enhancement for Zero-Shot Scene Classification in Remote Sensing Images**". 
+This GitHub repository contains the training code for the paper  "**Zero-ViFERS: Semantic Attribute-based Visual Feature Enhancement for Zero-Shot Scene Classification in Remote Sensing Images**". 
 
 This paper mainly focuses on creating semantic attributes for the four prominent remote sensing benchmark datasets (i.e., UCM21, AID30, NWPU-RESISC45, and WHU-RS19). For each class, we identified the objects that differentiate it from all the other classes, and some common attributes in various classes were also considered. For the UCM21, AID30, NWPU-RESISC45, and WHU-RS19 datasets, we have created 33, 44, 57, and 26 semantic attributes, respectively. These semantic attributes and attribute over values are available at ./data/xlsa17/code/...
 
 **The Framework for the Zero-ViFERS**
 
-![](figs/block_diagram_zero_vifers.png)
+![](figs/tnnls-bd.png)
 
 **Dependencies to run the Zero-ViFERS**
 
